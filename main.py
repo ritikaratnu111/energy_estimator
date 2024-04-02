@@ -1,4 +1,4 @@
-from energy_estimator import EnergyEstimator
+from energy_estimator_from_db import EnergyEstimator
 
 def main():
     energy_estimator = EnergyEstimator()

@@ -1,0 +1,20 @@
+{
+  "about": "noc",
+  "signals": ["noc", 
+              "partition", 
+              "splitter"],
+  "mode": {
+      "running": {
+          "active": {
+              "internal": "9.2213e-05",
+              "switching": "0",
+              "leakage": "0.012616852000000057"
+          },
+          "inactive": {
+              "internal": "9.2213e-05",
+              "switching": "0",
+              "leakage": "0.012616852000000057"
+          }
+        }
+  }
+}

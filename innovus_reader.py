@@ -44,9 +44,7 @@ class InnovusPowerParser():
         count = 0
 #        logging.info('Signals: %s', signals)
         for signal in signals:
-            print(signal)
             signal_substrings = signal.split('*')
-            print(signal_substrings)
             for name in self.nets:
                 net = self.nets[name]
                 label = net['label']

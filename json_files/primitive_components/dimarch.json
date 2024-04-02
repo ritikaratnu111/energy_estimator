@@ -4,9 +4,9 @@
     "mode": {
         "running": {
             "active": {
-                "internal": "0.6702023",
-                "switching": "0",
-                "leakage": "0.443469666125"
+                "internal": "0.7702023",
+                "switching": "0.347904990000",
+                "leakage": "0.573469666125"
             },
             "inactive": {
                 "internal": "0.6702023",
